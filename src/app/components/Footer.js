@@ -14,9 +14,6 @@ export default function Footer(){
                     </div>
 
                     <div>
-                        {/*<a href="https://g.dev/girardtechie" target="_blank" className="me-3 text-reset">*/}
-                        {/*    <i className="fa-brands fa-google"></i>*/}
-                        {/*</a>*/}
                         <a href="https://www.linkedin.com/company/paditim" target="_blank" className="me-3 text-reset">
                             <i className="fa-brands fa-linkedin"></i>
                         </a>
