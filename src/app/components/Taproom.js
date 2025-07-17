@@ -1,5 +1,5 @@
-import logo from "../../../personal-projects/brewerysample/webapp/src/images/tapcloseup.jpg";
-import images from "../../../personal-projects/brewerysample/webapp/src/images/pour.jpg";
+import logo from "../images/tapcloseup.jpg";
+import images from "../images/pour.jpg";
 
 export default function Taproom(){
     return(

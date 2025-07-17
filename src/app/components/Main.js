@@ -1,11 +1,11 @@
-import logo from "../../../personal-projects/brewerysample/webapp/src/images/beersign.jpg";
+import logo from "../images/beersign.jpg";
 
 export default function Main(){
     return(
         <div className={"main"}>
             <div className={"headerContent"}>
                 <h1>Girard Brewery</h1>
-                <img src={logo} alt='Beer Sign' />
+                <img src={ logo } alt='Beer Sign' />
             </div>
 
             <div className="container-fluid mainContent">

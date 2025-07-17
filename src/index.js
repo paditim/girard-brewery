@@ -2,15 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import './index.css';
-import Footer from "./components/Footer";
-import Navbar from "./components/Navbar";
-import Main from "./components/Main";
-import Beer from "./components/Beer";
-import Taproom from "./components/Taproom";
-import Story from "./components/Story";
-import Contact from "./components/Contact";
-import Events from "./components/Events";
-import RefAndComp from "./components/RefAndComp";
+import Footer from "./app/components/Footer";
+import Navbar from "./app/components/Navbar";
+import Main from "./app/components/Main";
+import Beer from "./app/components/Beer";
+import Taproom from "./app/components/Taproom";
+import Story from "./app/components/Story";
+import Contact from "./app/components/Contact";
+import Events from "./app/components/Events";
+import RefAndComp from "./app/components/RefAndComp";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(

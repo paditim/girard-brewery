@@ -1,4 +1,4 @@
-import logo from "../../../personal-projects/brewerysample/webapp/src/images/hopsandbeer.jpg";
+import logo from "../images/hopsandbeer.jpg";
 
 export default function Contact(){
     return(

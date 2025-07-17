@@ -1,4 +1,4 @@
-import logo from "../../../personal-projects/brewerysample/webapp/src/images/cheers.jpg";
+import logo from "../images/cheers.jpg";
 
 export default function Events(){
     return(

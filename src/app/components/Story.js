@@ -1,11 +1,11 @@
-import logo from "../../../personal-projects/brewerysample/webapp/src/images/barrels.jpg";
+// import logo from "src/images/barrels.jpg";
 
 export default function Story(){
     return(
         <div className={"story"}>
             <div className={"headerContent"}>
                 <h1>Story</h1>
-                <img src={logo} alt='Barrels' />
+                <img alt='Barrels' />
             </div>
 
             <div className="container-fluid mainContent">

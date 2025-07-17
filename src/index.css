@@ -1,5 +1,5 @@
 nav, #bizTitle{
-  font-family:Papyrus,Fantasy,Serif;
+  font-family: Papyrus, Fantasy, Serif, serif;
 }
 #navBackground{
   background-color: #D8B6A4;
@@ -31,7 +31,7 @@ h1{
   font-weight: bold;
   color: #EEEBDD;
   font-family: Papyrus,Fantasy,Serif;
-  background-image: url(./images/beersign.jpg);
+  background-image: url(app/images/beersign.jpg);
   border-color: #630000;
   border-style: ridge;
   border-width: thin;

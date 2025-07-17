@@ -1,4 +1,4 @@
-import logo from "../../../personal-projects/brewerysample/webapp/src/images/beercooler.jpg";
+import logo from "../images/beercooler.jpg";
 
 export default function Beer(){
     return(
